@@ -1,3 +1,6 @@
+采用archimate的相关图元，参考：http://plantuml.com/zh/archimate-diagram
+
+```plantuml
 @startuml
 title logical view mapped to physical view
 sprite $aService jar:archimate/application-service
@@ -39,6 +42,5 @@ XXX --> FM_A
 XXX --> FM_B
 
 @enduml
+```
 
-
-参考：http://plantuml.com/zh/archimate-diagram

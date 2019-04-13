@@ -1,3 +1,6 @@
+采用UML2.0标准的组件图，参考：http://plantuml.com/zh/component-diagram
+
+```plantuml
 @startuml
 title 组件图
 
@@ -46,5 +49,6 @@ CompC ..> () "Interface A"
 
 
 @enduml
+```
 
-参考：http://plantuml.com/zh/component-diagram
+
