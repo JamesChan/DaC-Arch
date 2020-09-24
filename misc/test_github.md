@@ -15,7 +15,7 @@ Picure by Drawio:
 Test PlantUML embeded in MD:
 
 ```plantuml
-
+@startuml
 Bob->Alice: This is a test
-
+@enduml
 ```
