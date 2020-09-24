@@ -14,8 +14,18 @@ Picure by Drawio:
 
 Test PlantUML embeded in MD:
 
+方法1：
+
 ```plantuml
 @startuml
 Bob->Alice: This is a test
+@enduml
+```
+
+方法2：
+
+```plantuml
+@startuml
+!includeurl https://raw.githubusercontent.com/linux-china/plantuml-gist/master/src/main/uml/plantuml_gist.puml
 @enduml
 ```
