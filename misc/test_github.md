@@ -11,3 +11,11 @@ image is here as followed:
 Picure by Drawio:
 
 ![](./test_drawio_pic.dio.svg)
+
+Test PlantUML embeded in MD:
+
+```plantuml
+
+Bob->Alice: This is a test
+
+```
